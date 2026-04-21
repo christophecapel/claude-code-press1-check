@@ -1,4 +1,4 @@
-# claude-code-press1-check
+![Banner Alt Text](banner-claude-code-press1-check.png)
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
 ![Python 3.8+](https://img.shields.io/badge/Python-3.8+-blue.svg)
